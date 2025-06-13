@@ -1,9 +1,3 @@
-Below is an overview and sample implementation for a full‑stack movie recommendation app. In this example, we’ll build a system that uses:
-- A Node/Express backend that integrates with an external movie API (such as TMDB) to fetch movie data, handles user data with a MongoDB database, and provides RESTful endpoints.
-- A React frontend that lets users search for movies, view recommendations, and interact with features (including a separate AR page).
-- AR integration (web‑based) using AR.js with A‑Frame for a simple movie poster–scanning experience.
-I’ll walk through an architectural overview and provide code snippets for each layer.
-
 1. Architectural Overview
 - Frontend (React):
 - Pages/Components:
